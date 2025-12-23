@@ -8,7 +8,7 @@ pandas
 nltk
 tqdm
 PyYAML
-matplotlip
+matplotlib
 torch
 notebook
 boto3
